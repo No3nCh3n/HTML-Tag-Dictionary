@@ -1,0 +1,37 @@
+a: stands for anchor, activates a link so it can be opened
+attribute:href
+example: <a href="(link)">
+
+
+h1: title
+attribute:none
+example:<h1>HEllo</h1>
+
+
+h6: same as h1 but smaller, bigger the number smaller the font
+attribute:none
+example:<h6>HEllo</h6>
+
+
+img: insert an image
+attribute:src
+example <img src="(image.png)">
+
+
+li: list content
+attribute:none
+example:<li>A goal</li>
+
+
+ol: put the list in number
+attribute:none
+example:<ol>
+			<li> </li>
+			<li> </li>
+			<li> </li>
+		</ol>
+
+
+p: stands for paragraph, to put in content
+attribute:none
+example:<p>I LOVE MR.PELLTIER</p>
