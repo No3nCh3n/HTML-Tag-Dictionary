@@ -35,3 +35,37 @@ example:<ol>
 p: stands for paragraph, to put in content
 attribute:none
 example:<p>I LOVE MR.PELLTIER</p>
+
+
+!DOCTYPE: Selects the version of HTML, the html attribute means you want the most recent version
+attribute: html
+example: <!DOCTYPE html>
+
+
+body: contains the content of your 
+attribute: none
+example: <body>
+		 </body>
+
+
+head: things for your browser to think about when looking at your webpage
+attribute: none
+example: <head> </head>
+
+
+html: marks the beginning and end of yout html code
+attribute: none
+example: <html> </html>
+
+
+title: shows on the tab
+attribute: none
+example: <title> First Website </title>
+
+
+
+
+
+
+
+		 
